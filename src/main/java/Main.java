@@ -32,7 +32,7 @@ public class Main {
 
         //Часть 2. Ввод всего съеденного и выпитого
         float total = 0f;
-        int countGoods = 0;
+        int countGoods = 0; //количество товаров в чеке
         float goodPrice = 0;
         String listGoods = "Добавленные товары: "; //переменная для хранения полного списка
             System.out.println("Добавьте блюда из списка и их цены.");
