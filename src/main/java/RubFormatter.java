@@ -23,6 +23,7 @@ public class RubFormatter  {
          }
      }
  */
+    //в комментариях старая версия метода
     static String rubFormatter(float cost) {
         int rubPrice;
         rubPrice = (int) cost; //привели итог к целочисленному значению

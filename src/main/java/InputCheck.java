@@ -14,7 +14,7 @@ public class InputCheck {
         }
 
      }
-    public static boolean isNumeric(String s)
+    public static boolean isNumeric(String s) //введённое значение можно преобразовать в число?
     {
         try {
             Float.parseFloat(s);
